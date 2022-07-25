@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['h_5faddr_5flist_7524',['h_addr_list',['../netdb_8h.html#a058204dad180c9850b3ffaf6b32f5b4c',1,'hostent']]],
+  ['h_5faddrtype_7525',['h_addrtype',['../netdb_8h.html#a913b2bbf34d26ed76f7109a7a17bf4a3',1,'hostent']]],
+  ['h_5faliases_7526',['h_aliases',['../netdb_8h.html#ae14b193c012a3358601fa608b369ea16',1,'hostent']]],
+  ['h_5ferrno_7527',['h_errno',['../netdb_8h.html#a2a1ce3f2040007303d36c0b682b5ac10',1,'netdb.h']]],
+  ['h_5flength_7528',['h_length',['../netdb_8h.html#aa5906b78ee4dffe8785c3d40de2e69f5',1,'hostent']]],
+  ['h_5fname_7529',['h_name',['../netdb_8h.html#a42431644cca2256f1058e3f5f4a5c5c4',1,'hostent']]],
+  ['hair_5fcolor_7530',['hair_color',['../group__nn__ffl__miidata.html#a548359b632752b358ecaf19940540221',1,'FFLiMiiDataCore']]],
+  ['hair_5fmirrored_7531',['hair_mirrored',['../group__nn__ffl__miidata.html#a32f2de50cc96a7ce4dd5ffc67240ce38',1,'FFLiMiiDataCore']]],
+  ['hair_5ftype_7532',['hair_type',['../group__nn__ffl__miidata.html#a6a5cdce2bb57e22fb620baad04febe37',1,'FFLiMiiDataCore']]],
+  ['handle_7533',['handle',['../filesystem__fsa_8h.html#a75c494ec3574661e6502bf2bf2965c0a',1,'FSARequestRawClose::handle()'],['../filesystem__fsa_8h.html#a3127ebf018e9da62fa464d348352037d',1,'FSAResponseRawOpen::handle()'],['../group__nsyshid__hid.html#aa8bec03983fc2371ab6afa98ae6ddd45',1,'HIDDevice::handle()'],['../uhs_8h.html#aa8bec03983fc2371ab6afa98ae6ddd45',1,'UhsHandle::handle()']]],
+  ['hasstreamout_7534',['hasStreamOut',['../group__gx2__shader.html#af9760da507d9fe80a1481d1233f51753',1,'GX2VertexShader::hasStreamOut()'],['../group__gx2__shader.html#af9760da507d9fe80a1481d1233f51753',1,'GX2GeometryShader::hasStreamOut()']]],
+  ['hbmdisable_7535',['hbmDisable',['../group__sysapp__switch.html#ab2e6e22b90ea87e1da22aca9a5abe20b',1,'SysAppBrowserArgsWithCallback']]],
+  ['head_7536',['head',['../group__coreinit__alarms.html#a76fb1f6882f07151c599433897f8177c',1,'OSAlarmQueue::head()'],['../group__coreinit__memexpheap.html#a727bad52bc5609cba03a351ce784b286',1,'MEMExpHeapBlockList::head()'],['../group__coreinit__memfrmheap.html#a46997af7b414552eec825fd3f95287d9',1,'MEMFrmHeapState::head()'],['../group__coreinit__memfrmheap.html#a46997af7b414552eec825fd3f95287d9',1,'MEMFrmHeap::head()'],['../group__coreinit__memlist.html#a46997af7b414552eec825fd3f95287d9',1,'MEMMemoryList::head()'],['../group__coreinit__thread.html#a0896610fffd2641ab3f42ea99b6d147a',1,'OSMutexQueue::head()'],['../group__coreinit__thread.html#ad55284e8266fdfe37e1c0900cf3c72dc',1,'OSFastMutexQueue::head()'],['../group__coreinit__threadq.html#a5d78dbf3cccb8bea6b04342daa52614f',1,'OSThreadQueue::head()'],['../group__coreinit__threadq.html#a5d78dbf3cccb8bea6b04342daa52614f',1,'OSThreadSimpleQueue::head()']]],
+  ['header_7537',['header',['../group__coreinit__memblockheap.html#a0edcfdc3d5cf965f0929bf203c4a1dbb',1,'MEMBlockHeap::header()'],['../group__coreinit__memexpheap.html#a0edcfdc3d5cf965f0929bf203c4a1dbb',1,'MEMExpHeap::header()'],['../group__coreinit__memfrmheap.html#a0edcfdc3d5cf965f0929bf203c4a1dbb',1,'MEMFrmHeap::header()'],['../group__coreinit__unitheap.html#a0edcfdc3d5cf965f0929bf203c4a1dbb',1,'MEMUnitHeap::header()']]],
+  ['height_7538',['height',['../group__gx2__surface.html#a6ad4f820ce4e75cda0686fcaad5168be',1,'GX2Surface::height()'],['../group__h264__stream.html#a5d8006e753a3e76ff637a4e092bbed71',1,'H264DecodeResult::height()']]],
+  ['hidcode_7539',['hidCode',['../nsyskbd_8h.html#acc3782b59d451f74961a98d3dc424f47',1,'KBDKeyEvent']]],
+  ['higlightinitialtext_7540',['higlightInitialText',['../namespacenn_1_1swkbd.html#a9f05266441896a2a65bf61c0810353f9',1,'nn::swkbd::InputFormArg']]],
+  ['hinttext_7541',['hintText',['../namespacenn_1_1swkbd.html#a07797241f9fcde4e9d2e38d9d59a9bf4',1,'nn::swkbd::InputFormArg']]],
+  ['hizptr_7542',['hiZPtr',['../group__gx2__surface.html#a32bc72edcb4dd11c45545a6c2aaa5259',1,'GX2DepthBuffer']]],
+  ['hizsize_7543',['hiZSize',['../group__gx2__surface.html#a7e3ab1ffcb9f488a7d2bf3f2cb2aab95',1,'GX2DepthBuffer']]],
+  ['hold_7544',['hold',['../group__padscore__kpad.html#a640685c2285e7b8a348fff1e0332d0bf',1,'KPADStatus::hold()'],['../group__vpad__input.html#a640685c2285e7b8a348fff1e0332d0bf',1,'VPADStatus::hold()']]],
+  ['host_7545',['host',['../group__nsysnet__netconfig.html#af53fc36b0ebf99f330168f0d11e248ac',1,'NetConfProxyConfig']]],
+  ['hour_7546',['hour',['../group__nn__fp__fp.html#gae5af4ff48939d13d480f87e56a9385d6',1,'nn::fp::DateTime']]]
+];

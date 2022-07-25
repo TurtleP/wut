@@ -1,0 +1,6 @@
+<map id="sysapp" name="sysapp">
+<area shape="rect" id="node1" href="$group__sysapp__launch.html" title=" " alt="" coords="121,5,244,31"/>
+<area shape="rect" id="node2" title="Functions to switch applications, launch overlay apps and perform other multitasking functions." alt="" coords="5,55,73,80"/>
+<area shape="rect" id="node3" href="$group__sysapp__switch.html" title=" " alt="" coords="123,55,242,80"/>
+<area shape="rect" id="node4" href="$group__sysapp__title.html" title=" " alt="" coords="130,104,235,129"/>
+</map>

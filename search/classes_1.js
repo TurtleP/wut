@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['acpmetaxml_5173',['ACPMetaXml',['../group__nn__acp__title.html#structACPMetaXml',1,'']]],
+  ['addrinfo_5174',['addrinfo',['../netdb_8h.html#structaddrinfo',1,'']]],
+  ['appeararg_5175',['AppearArg',['../namespacenn_1_1erreula.html#structnn_1_1erreula_1_1AppearArg',1,'AppearArg'],['../namespacenn_1_1swkbd.html#structnn_1_1swkbd_1_1AppearArg',1,'AppearArg']]],
+  ['applicationareacreateinfo_5176',['ApplicationAreaCreateInfo',['../namespacenn_1_1nfp.html#structnn_1_1nfp_1_1ApplicationAreaCreateInfo',1,'nn::nfp']]],
+  ['axinitparams_5177',['AXInitParams',['../group__sndcore2__core.html#structAXInitParams',1,'']]],
+  ['axprofile_5178',['AXProfile',['../group__sndcore2__core.html#structAXProfile',1,'']]],
+  ['axtransitionaudiobuffer_5179',['AXTransitionAudioBuffer',['../group__sndcore2__core.html#structAXTransitionAudioBuffer',1,'']]],
+  ['axvoice_5180',['AXVoice',['../group__sndcore2__voice.html#structAXVoice',1,'']]],
+  ['axvoiceadpcm_5181',['AXVoiceAdpcm',['../group__sndcore2__voice.html#structAXVoiceAdpcm',1,'']]],
+  ['axvoiceadpcmloopdata_5182',['AXVoiceAdpcmLoopData',['../group__sndcore2__voice.html#structAXVoiceAdpcmLoopData',1,'']]],
+  ['axvoicedevicebusmixdata_5183',['AXVoiceDeviceBusMixData',['../group__sndcore2__voice.html#structAXVoiceDeviceBusMixData',1,'']]],
+  ['axvoicedevicemixdata_5184',['AXVoiceDeviceMixData',['../group__sndcore2__voice.html#structAXVoiceDeviceMixData',1,'']]],
+  ['axvoicelink_5185',['AXVoiceLink',['../group__sndcore2__voice.html#structAXVoiceLink',1,'']]],
+  ['axvoiceoffsets_5186',['AXVoiceOffsets',['../group__sndcore2__voice.html#structAXVoiceOffsets',1,'']]],
+  ['axvoicesrc_5187',['AXVoiceSrc',['../group__sndcore2__voice.html#structAXVoiceSrc',1,'']]],
+  ['axvoicevedata_5188',['AXVoiceVeData',['../group__sndcore2__voice.html#structAXVoiceVeData',1,'']]]
+];
